@@ -78,13 +78,6 @@ Key outcomes/results demo
 
 📽️ [Insert Video Link Here]
 
-⚙️ How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/mnist-cv-task.git
-
-cd mnist-cv-task
 
 Install dependencies:
 
